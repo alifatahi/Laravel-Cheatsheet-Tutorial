@@ -10,7 +10,7 @@ Every Day I Learned New Things From Books Or Videos and Other
 Tutorials and Now I Decide to Have All Of Theme in One Place So Other
  People Can Use :smile:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Laravel-Newsletter](https://github.com/alifatahi/Laravel-Cheatsheet-Tutorial/tree/master/Modules/LaravelNewsletter).
 
 
 Every Tutorial is On Separate Modules 
