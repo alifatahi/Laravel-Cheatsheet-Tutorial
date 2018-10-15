@@ -1,0 +1,14 @@
+{
+    "name": "LaravelNewsletter",
+    "alias": "laravelnewsletter",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\LaravelNewsletter\\Providers\\LaravelNewsletterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
