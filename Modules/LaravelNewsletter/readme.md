@@ -1,7 +1,7 @@
 # Laravel-Newsletter 
 
 ## Introduction
-In this tutorial we will use spatie/laravel-newsletter  
+In this tutorial we will use spatie/laravel-newsletter Package
 
 ## Author
 Krunal
